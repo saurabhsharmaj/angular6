@@ -15,6 +15,7 @@ import { FooterModule } from './shared/footer/footer.module';
 import { TopnavModule } from './shared/topnav/topnav.module';
 import { PolicyModule } from './policy/policy.module';
 import { RegistrationModule } from './registration/registration.module';
+import { MatNativeDateModule } from '@angular/material';
 
 
 
@@ -31,6 +32,7 @@ import { RegistrationModule } from './registration/registration.module';
     RouterModule,
     BrowserModule,
     BrowserAnimationsModule,
+    MatNativeDateModule,
     RouterModule.forRoot(routes),
     CustomMaterialModule,
     PolicyModule,
