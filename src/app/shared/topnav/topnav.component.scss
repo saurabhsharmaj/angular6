@@ -1,0 +1,18 @@
+@import '../../../theme/variables.scss';
+.pageFullNav{
+    .docs-navbar{
+      background:#00bcd4; padding: 8px 16px;
+      .footer-logo{
+        float: left; margin-right: 15px;
+        img{
+          width: 40px;
+        }
+      }
+      a{
+        color: white; text-transform: uppercase;
+      }
+      a:last-child{
+        float: right;
+      }
+    }
+  }
