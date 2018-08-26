@@ -7,6 +7,9 @@
     margin: 88px auto;
     float: none;
     box-shadow: 0 0 5px $color-656;
+    .mat-form-field{
+      display: inline;
+    }
     .mat-input-container{
       margin-bottom: 15px; width: 100%; float: left;
       width: 100%; float: left;

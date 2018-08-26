@@ -7,8 +7,8 @@
     margin: 88px auto;
     float: none;
     box-shadow: 0 0 5px $color-656;
-    .mat-input-container{
-     
+    mat-form-field{
+      display: inline;
     }
     .docs-homepage-bottom-start{
       margin-top: 50px;

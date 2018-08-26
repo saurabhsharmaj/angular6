@@ -11,8 +11,6 @@ import { AppComponent } from './app.component';
 import { TopnavComponent } from './shared/topnav/topnav.component';
 import { FooterComponent } from './shared/footer/footer.component';
 import { CustomMaterialModule } from './custom-material';
-import { FooterModule } from './shared/footer/footer.module';
-import { TopnavModule } from './shared/topnav/topnav.module';
 import { PolicyModule } from './policy/policy.module';
 import { RegistrationModule } from './registration/registration.module';
 import { MatNativeDateModule } from '@angular/material';
